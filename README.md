@@ -1,4 +1,4 @@
-<h1 align="center"> eSports </h1> 
+<h1 align="center"> eSports - App Frontend/Beckend </h1> 
 
 ![Capa do Aplicativo](https://user-images.githubusercontent.com/102997685/223515750-c2827ad9-d016-46d1-a38e-2ee2fd4420dc.png)
 
